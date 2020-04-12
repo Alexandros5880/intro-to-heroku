@@ -4,7 +4,7 @@
   "keywords": [
     "app-cloud"
   ],
-  "repository": "https://github.com/YOUR_USERNAME/dhprod-UNIQUE_ID.",
+  "repository": "https://github.com/YOUR_USERNAME/",
   "addons": [
     "heroku-postgresql"
   ]
